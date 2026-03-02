@@ -26,15 +26,13 @@ Focused on **FastAPI, PostgreSQL, Docker, and Linux** as core tools for backend 
 
   🛠 Skills  
 
-- **Programming:** Python (FastAPI, asyncio)  
+- **Programming:** Python (FastAPI, asyncio, aiogram)  
 - **Databases:** PostgreSQL, SQLAlchemy  
 - **DevOps & Tools:** Docker, Git, Linux (Ubuntu)  
-- **Other:** REST API design, Authentication (JWT), Alembic migrations  
+- **Other:** REST API design, Authentication (JWT), Alembic migrations, Redis, Celery
 
 
 ## 📚 Currently Learning  
 
-- **Redis** for caching and background tasks  
-- **Pytest** for automated testing  
 - **CI/CD pipelines** with GitHub Actions  
 - **System design basics** for scalable applications  
